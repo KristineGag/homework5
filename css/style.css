@@ -1,0 +1,152 @@
+@font-face {
+    font-family: Arimo;
+    src: url(fonts/Arimo-Regular);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+	list-style: none;
+}
+li{
+    display: inline;
+}
+.navstyle{
+    width: 1475px;
+    height: 91px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 27px;
+}
+.navstyle li{
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 37px;
+    padding-bottom: 36px;
+} 
+a{
+	text-decoration: none;
+	color: #ffffff;
+    font-size: 16px;
+}
+header img{
+    width: 115px;
+    height: 65px;
+}
+.mainimage{
+    width: 1195px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -150px;
+}
+.mainimage img{
+    width: 1195px;
+    height: 600px;
+    border-radius: 15px;
+}
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+header{
+    background-color: #0020F4;
+    height: 388px;
+}
+.last-nav {
+    
+}
+.last-nav a{
+    color: #171717;
+    background-color: #ffffff;
+    border-radius: 28px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 36px;
+    padding-right: 43px;
+    width: 160px;
+    margin-right: 36px;
+}
+.second-section-imgs{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1195px;
+    padding-top: 60px;
+}
+.second-section-imgs img{
+    object-fit: contain;
+    width: 219px;
+    height: 219px;
+    border-radius: 15px;
+}
+p{
+    font-size: 16px;
+}
+.maincopy{
+    margin-top: 42px;
+    width: 951px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.maincopy p{
+    font-family: Arimo;
+    padding-top: 18px;
+    color: #171717;
+}
+.button{
+    width: 341px;
+    height: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #0a22F4;
+    border-radius: 28px;
+    margin-top: 58px;
+    margin-bottom: 180px;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+.divwithmap{
+    width: 463px;
+    margin-left: 240px;
+    padding-top: 275px;
+}
+.divwithmap h1, h2, p{
+    color: #ffffff;
+}
+.contact{
+    width: 1475px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact h2,img{
+    display: inline;
+    font-size: 22px;
+}
+.contact img{
+    background-color: #ffffff;
+    padding: 22px;
+    border-radius: 50px;
+}
+.contact div{
+    display: inline-block;
+    height: 170px;
+    margin-top: 60px;
+}
+.lastline h5,h6,img{
+    display: inline;
+    color: #ffffff;
+    font-family: Arimo;
+    font-weight: bold;
+}
+.lastline{
+    padding-bottom: 40px;
+    width: 1475px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    background-color: #0a22F4;
+}
